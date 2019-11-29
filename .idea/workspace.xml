@@ -45,7 +45,7 @@
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="363">
-                  <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+                  <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -224,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575046230836</updated>
-      <workItem from="1575046232345" duration="6716000" />
+      <workItem from="1575046232345" duration="6799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6716000" />
+    <option name="totallyTimeSpent" value="6799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -242,9 +242,9 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.39027432" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.39027432" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2160229" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2160229" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,7 +318,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
         </state>
       </provider>
     </entry>
