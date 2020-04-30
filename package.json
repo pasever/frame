@@ -9,7 +9,7 @@
     "sinon": "^7.5.0"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "phantomjs-prebuilt": "^2.1.14"
   }
